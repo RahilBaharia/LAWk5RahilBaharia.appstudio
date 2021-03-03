@@ -1,3 +1,4 @@
+//creates a while loop 
 var x = 1
 while (x < 10) {
     console.log(`This is loop iteration ${x}`)
